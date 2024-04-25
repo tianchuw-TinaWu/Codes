@@ -1,0 +1,1 @@
+samtools faidx ~/ha22_scratch/CapeWeed_Hap/tom-mon3828-mb-hirise-yv4r5__06-15-2023__final_assembly_except_top9.fasta Scaffold_140__1_contigs__length_103102 > Scaffold_140.fasta
